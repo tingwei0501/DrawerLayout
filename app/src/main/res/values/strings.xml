@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DrawerLayout</string>
+    <string name="userName">Bella</string>
+    <string name="email">tingwei0501@gmail.com</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
